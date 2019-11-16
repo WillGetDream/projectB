@@ -1,0 +1,22 @@
+﻿  AssetManager.cpp
+  Collision.cpp
+  Constants.cpp
+  ECS.cpp
+  Game.cpp
+c:\users\spencer\documents\github\cis_17b_final_project\birchengine - 22 - assetmanager\birchengine\src\ecs\ecs.h(117): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\spencer\documents\github\cis_17b_final_project\birchengine - 22 - assetmanager\birchengine\src\game.cpp(67): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int,int,int,int>(int &&,int &&,int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+  TextureManager.cpp
+  Vector2D.cpp
+  Generating Code...
+  BirchEngine.vcxproj -> C:\Users\Spencer\Documents\GitHub\CIS_17B_Final_Project\BirchEngine - 22 - AssetManager\bin\Win32\Debug\BirchEngine.exe
